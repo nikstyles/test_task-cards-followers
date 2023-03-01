@@ -5,11 +5,11 @@ export const NavList = styled.header`
 `;
 
 export const Link = styled.a`
-  width: 100px;
+  width: 90px;
   padding: 25px;
 `;
 
 export const Logo = styled.img`
-  width: 100px;
+  width: 90px;
   padding: 25px;
 `;
