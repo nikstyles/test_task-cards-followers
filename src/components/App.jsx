@@ -1,16 +1,14 @@
+import { Container } from './App.styled';
+import CardsList from './CardsList/CardsList';
+import Nav from './Nav/Nav';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <Nav />
+      <Container>
+        <CardsList />
+      </Container>
+    </>
   );
 };

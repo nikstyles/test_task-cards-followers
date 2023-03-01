@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 1100500,
+    "avatar": "https://i.ibb.co/S6jd7N4/3.png",
+    "follow": false
+  },
+  {
+    "id": 2,
+    "user": "Dominic Toreto",
+    "tweets": 39,
+    "followers": 50500,
+    "avatar": "https://i.ibb.co/mtPHLgK/4.png",
+    "follow": false
+  },
+  {
+    "id": 3,
+    "user": "Dominic",
+    "tweets": 767,
+    "followers": 10569,
+    "avatar": "https://i.ibb.co/9NtLprq/7294745.png",
+    "follow": false
+  },
+  {
+    "id": 4,
+    "user": "Elon Reeve Musk",
+    "tweets": 895,
+    "followers": 80520,
+    "avatar": "https://i.ibb.co/5G6GSfM/7309669.png",
+    "follow": false
+  },
+  {
+    "id": 5,
+    "user": "Dominic Toreto",
+    "tweets": 125,
+    "followers": 50901,
+    "avatar": "https://i.ibb.co/0JHCYh1/7309676.png",
+    "follow": false
+  },
+  {
+    "id": 6,
+    "user": "Dominic",
+    "tweets": 367,
+    "followers": 43300,
+    "avatar": "https://i.ibb.co/wLKFHZP/7309682.png",
+    "follow": false
+  },
+  {
+    "id": 7,
+    "user": "Elon Reeve Musk",
+    "tweets": 650,
+    "followers": 10088,
+    "avatar": "https://i.ibb.co/SNhN1WZ/7309694.png",
+    "follow": false
+  },
+  {
+    "id": 8,
+    "user": "Dominic Toreto",
+    "tweets": 972,
+    "followers": 70500,
+    "avatar": "https://i.ibb.co/4dCgHkr/7309702.png",
+    "follow": false
+  },
+  {
+    "id": 9,
+    "user": "Dominic",
+    "tweets": 102,
+    "followers": 100,
+    "avatar": "https://i.ibb.co/fXhjPKs/7309711.png",
+    "follow": false
+  }
+]
